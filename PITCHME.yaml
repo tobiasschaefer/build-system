@@ -1,3 +1,4 @@
-logo : img/HE_Logo_rgb_300.png
+logo : img/novatec.png
 slide-number: true
+theme : beige
 theme-override : PITCHME.css

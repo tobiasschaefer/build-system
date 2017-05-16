@@ -1,3 +1,4 @@
+/* Remove Image Borders, see https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS#example-1-remove-image-borders */
 .reveal section img {
   border: 0;
   box-shadow: none;
